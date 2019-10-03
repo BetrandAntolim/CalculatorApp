@@ -1,0 +1,2 @@
+D:\Coding\Tuags_4\CalculatorApp\CalculatorConcoleApp\obj\Debug\CalculatorConcoleApp.csprojAssemblyReference.cache
+D:\Coding\Tuags_4\CalculatorApp\CalculatorConcoleApp\obj\Debug\CalculatorConcoleApp.csproj.CoreCompileInputs.cache
